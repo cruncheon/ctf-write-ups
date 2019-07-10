@@ -2,4 +2,5 @@
 
 ## Latest Write-ups
 
-[HyperCTF - The Maze Site](./HyperCTF/The%20Maze%20Site)
+- [HyperCTF - The Maze Site](./HyperCTF/The%20Maze%20Site)
+- [HyperCTF - Reverse Engineering](./HyperCTF/Reverse%2Engineering)
